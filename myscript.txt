@@ -1,0 +1,3 @@
+[REPEAT]
+<span class="price">$[GRAB:Title]</span>
+[/REPEAT]
